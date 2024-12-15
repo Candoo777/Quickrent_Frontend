@@ -58,7 +58,7 @@ We welcome contributions to improve QuickRent! Please fork this repository, crea
 
 Below are some images showcasing QuickRent:
 
-![Hero Banner]https://github.com/Candoo777/Quickrent_Frontend/blob/95283dc24b219ffb313b0aed08a3afe8e71d24e2/Screenshot%202024-12-15%20203117.png)
+![Hero Banner](https://github.com/Candoo777/Quickrent_Frontend/blob/95283dc24b219ffb313b0aed08a3afe8e71d24e2/Screenshot%202024-12-15%20203117.png)
 Hero Banner Section
 
 ![Gadget Listings](https://github.com/Candoo777/Quickrent_Frontend/blob/95283dc24b219ffb313b0aed08a3afe8e71d24e2/Screenshot%202024-12-15%20203150.png)
