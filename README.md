@@ -1,14 +1,11 @@
 # QuickRent - Gadget Renting Platform 
 
-[*QuickRent Live Site*](https://quickrent-frontend.vercel.app/)
-
 Welcome to *QuickRent*, a modern and responsive platform designed for renting gadgets like laptops, cameras, gaming consoles, and more. QuickRent aims to provide an easy and seamless way to browse, rent, and return tech gadgets for all your needs, whether personal or professional.
 
 ## 🚀 *Tech Stack*
 
 - *Frontend:* React.js, Vite, HTML, CSS
 - *Icons:* React Icons (Font Awesome)
-- *Deployment:* Vercel
 
 ## 🌟 *Features*
 
@@ -24,17 +21,6 @@ Welcome to *QuickRent*, a modern and responsive platform designed for renting ga
 - *Features Section:* Highlight the advantages of using QuickRent (e.g., affordable pricing, fast delivery).
 - *Contact Us:* Simple form to submit inquiries or feedback, with optional office location map.
 
-## 🚀 *Deployment*
-
-- The app is deployed on Vercel. You can view the live version at:
-
-  - [*QuickRent Live Site*](https://quickrent-frontend.vercel.app/)
-
-### Deploying to Vercel
-
-1. Push the project to GitHub.
-2. Link your GitHub repository to Vercel.
-3. Vercel will automatically detect the framework (React + Vite) and deploy it.
 
 ## 📝 Code Highlights
 
